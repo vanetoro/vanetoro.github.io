@@ -6,8 +6,6 @@ permalink:  what_happens_when_you_dont_like_your_project
 ---
 
 
-If you'vWhat happens when you don't like your project?
-
 If you read my previous posts, you know that I was almost completely done with my Rails Event Organizer App when I decided I hated it and wanted to do something else. Even after almost completing it, I wasn’t sure who the target audience would be or why anybody would want to use it over Facebook or a basic calendar. I know it's just a project but it felt useless and I was over it.
 
 Two weeks ago as I was putting the finishing touches on my project, making sure I had completed all the requirements, I remembered something my technical coach had mentioned - in JavaScript we were going to add to this project. At that moment I thought what could I possibly add to my boring and unusable project? Nothing at all came to mind. So I started thinking about what I could build that I would actually want to keep working on after passing the rails assessment.
