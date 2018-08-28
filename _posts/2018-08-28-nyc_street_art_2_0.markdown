@@ -6,7 +6,7 @@ permalink:  nyc_street_art_2_0
 ---
 
 
-For project #4 I was asked to add some jquery to my rails project. Love it! I was very happy with how my rails project came out and I was excited to add to it. Just to recap my rails project is an app to keep track of all the street murals around NYC.
+For project #5 I was asked to add some jquery to my rails project. Love it! I was very happy with how my rails project came out and I was excited to add to it. Just to recap my rails project is an app to keep track of all the street murals around NYC.
 
 For this project I was required to use Active Model Serialization and a JSON backend to append to the DOM. I explained this to my girlfriend as bringing my app closer to the present. No need to go to a new page for new content to appear, just like most of the apps on your phone do.
 
